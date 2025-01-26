@@ -11,6 +11,19 @@
 		04B1E7942D42A17C00BB156E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7932D42A17C00BB156E /* ContentView.swift */; };
 		04B1E7962D42A18000BB156E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B1E7952D42A18000BB156E /* Assets.xcassets */; };
 		04B1E7992D42A18000BB156E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B1E7982D42A18000BB156E /* Preview Assets.xcassets */; };
+		04B1E7A02D42A1A500BB156E /* SchoolListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E79F2D42A1A500BB156E /* SchoolListView.swift */; };
+		04B1E7A22D42A21400BB156E /* SchoolViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7A12D42A21400BB156E /* SchoolViewModel.swift */; };
+		04B1E7A52D42A30000BB156E /* SchoolModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7A42D42A30000BB156E /* SchoolModel.swift */; };
+		04B1E7A92D431F4F00BB156E /* ClassListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7A82D431F4F00BB156E /* ClassListView.swift */; };
+		04B1E7AB2D431F7200BB156E /* ClassModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7AA2D431F7200BB156E /* ClassModel.swift */; };
+		04B1E7AD2D43215400BB156E /* StudentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7AC2D43215300BB156E /* StudentModel.swift */; };
+		04B1E7B12D4345AE00BB156E /* OverlayAddButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7B02D4345AE00BB156E /* OverlayAddButton.swift */; };
+		04B1E7B42D43461000BB156E /* NoResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7B32D43461000BB156E /* NoResultsView.swift */; };
+		04B1E7B62D434FD400BB156E /* StudentListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7B52D434FD400BB156E /* StudentListView.swift */; };
+		04B1E7B92D4351EF00BB156E /* Gender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7B82D4351EF00BB156E /* Gender.swift */; };
+		04B1E7BB2D43620200BB156E /* StudentFormType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7BA2D43620200BB156E /* StudentFormType.swift */; };
+		04B1E7BD2D43A71500BB156E /* StudentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7BC2D43A71500BB156E /* StudentDetailView.swift */; };
+		04B1E7BF2D43A75200BB156E /* StudentDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B1E7BE2D43A75200BB156E /* StudentDetailViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		04B1E7932D42A17C00BB156E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04B1E7952D42A18000BB156E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B1E7982D42A18000BB156E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04B1E79F2D42A1A500BB156E /* SchoolListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolListView.swift; sourceTree = "<group>"; };
+		04B1E7A12D42A21400BB156E /* SchoolViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolViewModel.swift; sourceTree = "<group>"; };
+		04B1E7A42D42A30000BB156E /* SchoolModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolModel.swift; sourceTree = "<group>"; };
+		04B1E7A82D431F4F00BB156E /* ClassListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassListView.swift; sourceTree = "<group>"; };
+		04B1E7AA2D431F7200BB156E /* ClassModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassModel.swift; sourceTree = "<group>"; };
+		04B1E7AC2D43215300BB156E /* StudentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentModel.swift; sourceTree = "<group>"; };
+		04B1E7B02D4345AE00BB156E /* OverlayAddButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayAddButton.swift; sourceTree = "<group>"; };
+		04B1E7B32D43461000BB156E /* NoResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoResultsView.swift; sourceTree = "<group>"; };
+		04B1E7B52D434FD400BB156E /* StudentListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentListView.swift; sourceTree = "<group>"; };
+		04B1E7B82D4351EF00BB156E /* Gender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gender.swift; sourceTree = "<group>"; };
+		04B1E7BA2D43620200BB156E /* StudentFormType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentFormType.swift; sourceTree = "<group>"; };
+		04B1E7BC2D43A71500BB156E /* StudentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailView.swift; sourceTree = "<group>"; };
+		04B1E7BE2D43A75200BB156E /* StudentDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +79,11 @@
 			children = (
 				04B1E7912D42A17C00BB156E /* SchoolApp_jan2025App.swift */,
 				04B1E7932D42A17C00BB156E /* ContentView.swift */,
+				04B1E7B22D4345F500BB156E /* CustomViews */,
+				04B1E7AF2D43458900BB156E /* ViewModifiers */,
+				04B1E7A62D431F0500BB156E /* Views */,
+				04B1E7A72D431F0F00BB156E /* ViewModels */,
+				04B1E7A32D42A2EC00BB156E /* Models */,
 				04B1E7952D42A18000BB156E /* Assets.xcassets */,
 				04B1E7972D42A18000BB156E /* Preview Content */,
 			);
@@ -65,6 +96,62 @@
 				04B1E7982D42A18000BB156E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		04B1E7A32D42A2EC00BB156E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				04B1E7B72D4351DC00BB156E /* Enums */,
+				04B1E7A42D42A30000BB156E /* SchoolModel.swift */,
+				04B1E7AA2D431F7200BB156E /* ClassModel.swift */,
+				04B1E7AC2D43215300BB156E /* StudentModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		04B1E7A62D431F0500BB156E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				04B1E79F2D42A1A500BB156E /* SchoolListView.swift */,
+				04B1E7A82D431F4F00BB156E /* ClassListView.swift */,
+				04B1E7B52D434FD400BB156E /* StudentListView.swift */,
+				04B1E7BC2D43A71500BB156E /* StudentDetailView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		04B1E7A72D431F0F00BB156E /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				04B1E7A12D42A21400BB156E /* SchoolViewModel.swift */,
+				04B1E7BE2D43A75200BB156E /* StudentDetailViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		04B1E7AF2D43458900BB156E /* ViewModifiers */ = {
+			isa = PBXGroup;
+			children = (
+				04B1E7B02D4345AE00BB156E /* OverlayAddButton.swift */,
+			);
+			path = ViewModifiers;
+			sourceTree = "<group>";
+		};
+		04B1E7B22D4345F500BB156E /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				04B1E7B32D43461000BB156E /* NoResultsView.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		04B1E7B72D4351DC00BB156E /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				04B1E7B82D4351EF00BB156E /* Gender.swift */,
+				04B1E7BA2D43620200BB156E /* StudentFormType.swift */,
+			);
+			path = Enums;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +224,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B1E7B92D4351EF00BB156E /* Gender.swift in Sources */,
+				04B1E7B12D4345AE00BB156E /* OverlayAddButton.swift in Sources */,
+				04B1E7AB2D431F7200BB156E /* ClassModel.swift in Sources */,
+				04B1E7B42D43461000BB156E /* NoResultsView.swift in Sources */,
+				04B1E7A22D42A21400BB156E /* SchoolViewModel.swift in Sources */,
 				04B1E7942D42A17C00BB156E /* ContentView.swift in Sources */,
+				04B1E7BB2D43620200BB156E /* StudentFormType.swift in Sources */,
+				04B1E7BF2D43A75200BB156E /* StudentDetailViewModel.swift in Sources */,
+				04B1E7BD2D43A71500BB156E /* StudentDetailView.swift in Sources */,
 				04B1E7922D42A17C00BB156E /* SchoolApp_jan2025App.swift in Sources */,
+				04B1E7B62D434FD400BB156E /* StudentListView.swift in Sources */,
+				04B1E7A92D431F4F00BB156E /* ClassListView.swift in Sources */,
+				04B1E7AD2D43215400BB156E /* StudentModel.swift in Sources */,
+				04B1E7A52D42A30000BB156E /* SchoolModel.swift in Sources */,
+				04B1E7A02D42A1A500BB156E /* SchoolListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
